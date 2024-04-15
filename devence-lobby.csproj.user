@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Dashboard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="telaColaboradores.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="telaEntradas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="telaFamiliares.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="telaMoradores.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="telaPedestres.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="telaSaidas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="telaTerceirizados.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="telaVisitantes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="telaCadastro.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="telaPesquisa.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
