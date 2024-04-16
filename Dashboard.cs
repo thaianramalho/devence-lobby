@@ -5,6 +5,7 @@ namespace devence_lobby
         public Dashboard()
         {
             InitializeComponent();
+            loadForm(new telaInicio(), btnInicio);
         }
 
         public Color verdeDevence = Color.FromArgb(8, 79, 73);
@@ -82,6 +83,7 @@ namespace devence_lobby
 
         private void btnInicio_Click(object sender, EventArgs e)
         {
+            loadForm(new telaInicio(), btnInicio);
 
         }
 

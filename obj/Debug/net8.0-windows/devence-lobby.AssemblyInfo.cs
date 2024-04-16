@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("devence-lobby")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+aa7e5857acf8b794061d19bd40d95c01ed6642da")]
 [assembly: System.Reflection.AssemblyProductAttribute("devence-lobby")]
 [assembly: System.Reflection.AssemblyTitleAttribute("devence-lobby")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

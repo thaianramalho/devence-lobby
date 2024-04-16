@@ -13,6 +13,9 @@
     <Compile Update="telaFamiliares.cs">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Update="telaInicio.cs">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Update="telaMoradores.cs">
       <SubType>Form</SubType>
     </Compile>

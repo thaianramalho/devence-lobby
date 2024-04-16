@@ -25,3 +25,5 @@ C:\Users\admin\Desktop\repositorios\devence-lobby\obj\Debug\net8.0-windows\deven
 C:\Users\admin\Desktop\repositorios\devence-lobby\obj\Debug\net8.0-windows\devence_lobby.telaEntradas.resources
 C:\Users\admin\Desktop\repositorios\devence-lobby\obj\Debug\net8.0-windows\devence_lobby.telaPedestres.resources
 C:\Users\admin\Desktop\repositorios\devence-lobby\obj\Debug\net8.0-windows\devence_lobby.telaSaidas.resources
+C:\Users\admin\Desktop\repositorios\devence-lobby\obj\Debug\net8.0-windows\devence_lobby.telaInicio.resources
+C:\Users\admin\Desktop\repositorios\devence-lobby\obj\Debug\net8.0-windows\devence-lobby.sourcelink.json
